@@ -5,7 +5,7 @@ const Home = () => {
         This a Gallery I tried to create for you, and also practice a
         little..enjoy it
       </h1>
-      <img src="public/1299033846372634725.png" className="w-100" />
+      <img src="1299033846372634725.png" className="w-100" />
     </div>
   );
 };
