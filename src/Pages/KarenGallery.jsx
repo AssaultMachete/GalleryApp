@@ -26,13 +26,23 @@ const karGallery = [
     alt: "Karen Kujou Pic",
   },
   { src: "/public/Kiniro.Mosaic.full.3025561.jpg", alt: "Karen Kujou Pic" },
+  { src: "/public/Kiniro.Mosaic.full.3885493.jpg", alt: "Karen Kujou Pic" },
+  { src: "/public/Kiniro.Mosaic.full.3051906.png", alt: "Karen Kujou Pic" },
+  {
+    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.2612642.jpg",
+    alt: "Karen Kujou Pic",
+  },
+  {
+    src: "/public/Kiniro.Mosaic.Thank.you!!.full.3344466.jpg",
+    alt: "Karen Kujou Pic",
+  },
   {
     src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.2672372.png",
     alt: "Karen Kujou Pic",
   },
 ];
 const imgClassName =
-  "border-4 border-solid border-b-amber-500 hover:scale-110 hover:shadow-lg hover:shadow-amber-700 w-75 m-5 duration-300 ease-in-out";
+  "border-4 border-solid border-amber-500 hover:scale-110 hover:shadow-lg hover:shadow-amber-700 w-85 m-5 duration-300 ease-in-out";
 
 const KarenGallery = () => {
   return (

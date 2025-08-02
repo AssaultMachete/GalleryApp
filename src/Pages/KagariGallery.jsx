@@ -16,7 +16,7 @@ const kagImages = [
   { src: "/public/Kagari.(Rewrite).full.649264.jpg", alt: "Kagari Pic" },
 ];
 const imgClassName =
-  "border-4 border-solid border-b-gray-800 hover:scale-110 hover:shadow-lg hover:shadow-cyan-950 w-75 m-5 duration-300 ease-in-out";
+  "border-4 border-solid border-gray-800 hover:scale-110 hover:shadow-lg hover:shadow-cyan-950 w-75 m-5 duration-300 ease-in-out";
 const KagariGallery = () => {
   return (
     <Gallery images={kagImages} title={title} imgClassName={imgClassName} />
