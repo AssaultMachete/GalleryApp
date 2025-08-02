@@ -42,7 +42,7 @@ const karGallery = [
   },
 ];
 const imgClassName =
-  "border-4 border-solid border-amber-500 hover:scale-110 hover:shadow-lg hover:shadow-amber-700 w-85 m-5 duration-300 ease-in-out";
+  "border-4 border-solid border-amber-500 hover:scale-110 hover:shadow-lg hover:shadow-amber-700 w-90 m-5 duration-300 ease-in-out";
 
 const KarenGallery = () => {
   return (
