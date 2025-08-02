@@ -2,7 +2,9 @@ const Gallery = ({ images, title, imgClassName }) => {
   return (
     <div className="gallery">
       {title && (
-        <h2 className="text-3xl font-bold text-white text-center">{title}</h2>
+        <h2 className="text-3xl font-bold text-white text-center mb-5">
+          {title}
+        </h2>
       )}
       <div className="flex flex-wrap justify-between items-center">
         {images.map((image, index) => (
