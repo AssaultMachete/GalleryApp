@@ -8,7 +8,7 @@ const MainLayout = () => {
         <Link to="/kagariGallery">Kagari</Link>
         <Link to="/karenGallery">Karen</Link>
       </nav>
-      <main className="p-5">
+      <main className="p-2">
         <Outlet />
       </main>
     </>
