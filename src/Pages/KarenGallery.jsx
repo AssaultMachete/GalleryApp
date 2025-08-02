@@ -3,41 +3,41 @@ import Gallery from "../Components/Gallery";
 const title = "Karen Kujou Gallery";
 const karGallery = [
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.4075816.jpg",
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.4075816.jpg",
     alt: "Karen Kujou Pic",
   },
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.4075768.jpg",
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.4075768.jpg",
     alt: "Karen Kujou Pic",
   },
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.3244370.jpg",
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.3244370.jpg",
     alt: "Karen Kujou Pic",
   },
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.2855116.jpg",
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.2855116.jpg",
     alt: "Karen Kujou Pic",
   },
-  { src: "/public/Kiniro.Mosaic.1024.1890019.webp", alt: "Karen Kujou Pic" },
-  { src: "/public/Kiniro.Mosaic.full.2612650.jpg", alt: "Karen Kujou Pic" },
-  { src: "/public/Kiniro.Mosaic.full.2757482.jpg", alt: "Karen Kujou Pic" },
+  { src: "/Kiniro.Mosaic.1024.1890019.webp", alt: "Karen Kujou Pic" },
+  { src: "/Kiniro.Mosaic.full.2612650.jpg", alt: "Karen Kujou Pic" },
+  { src: "/Kiniro.Mosaic.full.2757482.jpg", alt: "Karen Kujou Pic" },
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.1894936.jpg",
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.1894936.jpg",
     alt: "Karen Kujou Pic",
   },
-  { src: "/public/Kiniro.Mosaic.full.3025561.jpg", alt: "Karen Kujou Pic" },
-  { src: "/public/Kiniro.Mosaic.full.3885493.jpg", alt: "Karen Kujou Pic" },
-  { src: "/public/Kiniro.Mosaic.full.3051906.png", alt: "Karen Kujou Pic" },
+  { src: "/Kiniro.Mosaic.full.3025561.jpg", alt: "Karen Kujou Pic" },
+  { src: "/Kiniro.Mosaic.full.3885493.jpg", alt: "Karen Kujou Pic" },
+  { src: "/Kiniro.Mosaic.full.3051906.png", alt: "Karen Kujou Pic" },
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.2612642.jpg",
-    alt: "Karen Kujou Pic",
-  },
-  {
-    src: "/public/Kiniro.Mosaic.Thank.you!!.full.3344466.jpg",
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.2612642.jpg",
     alt: "Karen Kujou Pic",
   },
   {
-    src: "/public/Kujou.Karen.(Kiniro.Mosaic).full.2672372.png",
+    src: "/Kiniro.Mosaic.Thank.you!!.full.3344466.jpg",
+    alt: "Karen Kujou Pic",
+  },
+  {
+    src: "/Kujou.Karen.(Kiniro.Mosaic).full.2672372.png",
     alt: "Karen Kujou Pic",
   },
 ];
